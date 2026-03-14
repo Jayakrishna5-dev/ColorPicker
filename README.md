@@ -7,7 +7,7 @@ The app demonstrates React fundamentals such as **state management, event handli
 
 ## 🚀 Live Demo
 
-https://your-color-picker.netlify.app/
+https://colorpickerforyou.netlify.app/
 
 ---
 
